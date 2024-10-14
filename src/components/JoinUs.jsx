@@ -5,7 +5,7 @@ function JoinUs() {
         <>
             <div className='flex items-center gap-10   sm:flex-wrap  pt-10 bg-red-50'>
                 <div className='flex justify-center flex-col gap-3 p-10 w-[720px] sm:w-full h-[750px] sm:h-[400px]'>
-                    <h1 className='font-bold text-3xl w-[300px]'>Join us in creating a brighter future fir children everywhere</h1>
+                    <h1 className='font-bold text-3xl w-[300px]'>Join us in creating a brighter future for children everywhere</h1>
                     <p className='w-[300px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum amet itaque laborum, ipsa exercitationem obcaecati eaque tenetur soluta sint voluptatum modi, ab aut culpa architecto nostrum, adipisci harum illum facilis.</p>
                     <div className='flex gap-2 items-center w-fit'>
                         <button className='bg-black cursor-pointer text-white rounded-md w-32 h-10 text-xs'>Donate Now</button>

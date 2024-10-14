@@ -6,11 +6,10 @@ function Mission() {
         <>
             <div className='flex items-center p-10 sm:p-0 h-[580px] sm:h-[750px] sm:flex-wrap justify-center  bg-slate-300  sm:w-full   '>
                 <div className='w-[760px] flex items-center h-[645px] sm:h-[400px] mr-32 sm:mr-0'>
-                    <iframe className='rounded-3xl'
+                    <iframe className='rounded-3xl border-0'
                         src='https://www.youtube.com/embed/WTdPnJMOr7Y'
-                        frameborder='0'
                         allow='autoplay; encrypted-media'
-                        allowfullscreen
+                        allowFullScreen
                         title='video'
                         width="100%"
                         height="400"
